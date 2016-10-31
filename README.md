@@ -1,5 +1,7 @@
 # K-means-Color-in-Movie-Posters-
 The related blog: https://yujingma.com/2016/02/26/using-web-scraper-and-k-means-to-find-the-colors-in-movie-posters/
+
+
 Using web scrapping and k-means to extract colors in movie posters; And some related analyses with R
 Each movie has their own posters. Even in today’s always-online climate, the movie poster remains a powerful form of advertising. 
 Every movie poster has its own color scheme, based on the movie’s type, content, and tone. 
